@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>jp.co.sss.crud</groupId>
-	<artifactId>spring_crud_answer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>spring_crud_answer</name>
-	<description>Demo project for Spring Boot</description>
+	<artifactId>spring_crud</artifactId>
+	<version>1.0-ex1-ap1</version>
+	<name>spring_crud</name>
+	<description>社員管理システム</description>
 		<packaging>jar</packaging>
 	
 	<properties>
